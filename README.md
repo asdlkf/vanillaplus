@@ -9,7 +9,6 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 ## Mod List
 ### Game changing
-[Long Reach](https://mods.factorio.com/mods/jamesaguilar/long-reach) - *You can reach anything you can see. You can build anywhere you can see.*
 
 [Larger Inventory](https://mods.factorio.com/mods/Rseding91/Larger%20Inventory) - *This is a very tiny mod that doubles the size of the player's inventory.*
 
